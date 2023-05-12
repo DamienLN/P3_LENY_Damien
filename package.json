@@ -1,0 +1,19 @@
+{
+  "name": "p3_leny_damien",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamienLN/P3_LENY_Damien.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamienLN/P3_LENY_Damien/issues"
+  },
+  "homepage": "https://github.com/DamienLN/P3_LENY_Damien#readme"
+}
